@@ -1,3 +1,3 @@
-# Uber Analizi
+# Uber EDA
 
-uber-raw-data-sep14.csv. Saat heatmap + 3 model.
+`uber_sample.csv` (Eylul 2014 ornek). Saat, gun, konum grafikleri.

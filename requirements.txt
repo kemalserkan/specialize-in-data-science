@@ -19,9 +19,17 @@ wordcloud>=1.9.0
 # Time series
 statsmodels>=0.14.0
 
-# Deep learning (optional — Anaconda may already have these)
-# tensorflow>=2.15.0
-# torch>=2.1.0
+# Deep learning (Day5 Keras)
+tensorflow>=2.15.0
+
+# Agents / RAG (Day14)
+openai>=1.0.0
+chromadb>=0.4.0
+arxiv>=2.0.0
+feedparser>=6.0.0
+python-dotenv>=1.0.0
+xlrd>=2.0.0
+ollama>=0.3.0
 
 # Computer vision helpers
 opencv-python-headless>=4.8.0
@@ -29,8 +37,3 @@ Pillow>=10.0.0
 
 # Streamlit app
 streamlit>=1.28.0
-
-# Agents / RAG (optional — install when working on topic 10)
-# langchain>=0.1.0
-# openai>=1.0.0
-# chromadb>=0.4.0

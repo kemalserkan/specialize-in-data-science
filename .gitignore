@@ -63,6 +63,12 @@ PROJECT_CATALOG.md
 !**/data/*.png
 !**/data/*.jpg
 !**/data/*.json
+!**/data/*.xls
+
+# Day14 RAG yerel db
+**/cars_db/
+**/chroma_db/
+**/houses_db/
 
 # GitHub 50MB limiti — bu orijinal setler çok büyük, notebook kaynak linkinden indirilir
 **/data/uber-raw-data-sep14.csv

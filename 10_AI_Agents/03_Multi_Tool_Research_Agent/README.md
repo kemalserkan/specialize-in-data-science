@@ -1,3 +1,3 @@
-# Multi-tool
+# Multi-tool Agent
 
-BBC + hesap/selam/arama araçları. 3 intent modeli.
+arxiv + Google News RSS + LLM. Day14 research agent.

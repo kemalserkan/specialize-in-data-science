@@ -1,3 +1,3 @@
-# Hisse NN
+# AAPL LSTM
 
-AAPL.csv. MLP / Linear / RF. LSTM yerine MLP.
+Keras LSTM / GRU / Dense. Sequential, dersdeki gibi.

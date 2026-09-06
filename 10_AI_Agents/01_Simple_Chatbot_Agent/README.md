@@ -1,3 +1,3 @@
-# Chatbot
+# Chatbot Agent
 
-intents.json + 3 intent modeli.
+Day14 OpenRouter client + ollama. Intent SVM yok.

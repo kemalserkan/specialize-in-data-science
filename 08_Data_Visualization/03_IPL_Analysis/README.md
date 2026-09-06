@@ -1,3 +1,3 @@
-# IPL 2022
+# IPL 2022 EDA
 
-IPL 2022.csv. Grafikler + kazanan tahmini.
+Mac tablosu. countplot, pie, scatter, plotly. Model yok.

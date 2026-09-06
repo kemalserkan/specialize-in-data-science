@@ -1,3 +1,3 @@
-# Metin NN
+# Flipkart Keras
 
-flipkart_reviews.csv. MLP / LogReg / NB.
+Day7: CountVectorizer + Sequential Dense + sigmoid.

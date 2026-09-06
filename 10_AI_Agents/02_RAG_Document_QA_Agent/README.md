@@ -1,3 +1,3 @@
-# RAG
+# RAG Agent
 
-bbc-news-data.csv. TF-IDF retrieval, 3 benzerlik.
+cars.xls -> ChromaDB -> LLM. Day14 araba satisi RAG.

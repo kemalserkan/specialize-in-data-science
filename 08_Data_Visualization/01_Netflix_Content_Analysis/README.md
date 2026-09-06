@@ -1,3 +1,3 @@
 # Streaming EDA
 
-MoviesOnStreamingPlatforms. Grafikler + IMDb için 3 model.
+MoviesOnStreamingPlatforms. matplotlib / seaborn / plotly. Model yok.

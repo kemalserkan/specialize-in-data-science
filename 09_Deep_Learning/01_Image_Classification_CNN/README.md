@@ -1,3 +1,3 @@
-# Görüntü NN
+# MNIST CNN
 
-sklearn digits + MLP / LogReg / RF. TF yerine MLP.
+Day5 Keras: Conv2D, MaxPooling2D, Flatten, Dense. sklearn MLP yok.
