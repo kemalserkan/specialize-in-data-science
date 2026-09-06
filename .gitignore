@@ -1,0 +1,75 @@
+# üretici scriptler (repoda tutulmayacak)
+generate_notebooks_*.py
+train_0*.py
+_rewrite_notebooks*.py
+_train_models.py
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large / binary artifacts (keep small demos only)
+models/**/*.h5
+models/**/*.pt
+models/**/*.pth
+models/**/*.onnx
+models/**/*.ckpt
+*.pkl
+# joblib models kept for assignment demo
+!models/
+!models/**/*.joblib
+!models/.gitkeep
+
+# Data dumps
+**/data/raw/
+**/data/processed/
+*.csv
+*.tsv
+*.parquet
+*.zip
+*.tar.gz
+!**/sample_data/.gitkeep
+
+# Secrets
+.env
+*.pem
+hf_token.txt
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.idea/
+.vscode/
+
+# ödev planı / boş arşiv (repoda gerek yok)
+notebooks_archive/
+PROJECT_CATALOG.md
+
+
+# Keep project demo CSVs
+!**/data/*.csv
+!**/data/*.png
+!**/data/*.jpg
+!**/data/*.json
+
+# GitHub 50MB limiti — bu orijinal setler çok büyük, notebook kaynak linkinden indirilir
+**/data/uber-raw-data-sep14.csv
+**/data/fake_or_real_news.csv
+**/data/ner_dataset.csv
+**/data/weatherHistory.csv
+**/data/spotify_songs.csv
+**/data/bbc-news-data.csv
+models/regression_health_insurance.joblib
+models/timeseries_weather.joblib
