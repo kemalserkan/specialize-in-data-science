@@ -122,14 +122,7 @@ def chatbot(message, history):
 
 
 with gr.Blocks(title="Specialize in Data Science") as demo:
-    gr.Markdown(
-        """
-# Specialize in Data Science
-
-Notebook'larda eğittiğim modellerin demosu.
-Hugging Face artık yeni Space'te Streamlit SDK ve ücretsiz Docker vermiyor; aynı modelleri Gradio ile yayınladım.
-"""
-    )
+    gr.Markdown("# Specialize in Data Science\n\nIris, araç fiyatı, spam ve tweet denemesi.")
     with gr.Tab("Iris"):
         gr.Interface(
             fn=iris_tahmin,
