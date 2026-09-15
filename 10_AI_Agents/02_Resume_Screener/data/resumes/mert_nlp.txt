@@ -1,0 +1,4 @@
+Mert Arslan
+NLP Intern
+Python, HuggingFace, RAG, chromadb, OpenAI API
+Built a document Q&A bot

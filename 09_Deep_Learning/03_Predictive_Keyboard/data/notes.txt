@@ -1,0 +1,1 @@
+deep learning uses layers of neurons. keras sequential dense relu sigmoid. computer vision uses conv2d maxpooling flatten. lstm helps with sequences like stock prices and text. the student trains a small pytorch network to guess the next character. python pandas matplotlib seaborn plotly are used in class every week. 

@@ -1,0 +1,5 @@
+Ada Kaya
+ML Engineer
+Python, pandas, scikit-learn, TensorFlow, SQL
+3 years retail demand forecasting
+MSc Computer Science

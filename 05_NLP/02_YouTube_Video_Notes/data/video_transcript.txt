@@ -1,0 +1,1 @@
+Today we will train a small neural network. First split the data into train and test. Then scale the numbers. In Keras we use Sequential and Dense with relu. For images we add Conv2D and MaxPooling2D. Finally we look at accuracy and we plot the loss.
